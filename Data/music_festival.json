@@ -1,0 +1,334 @@
+{
+  "Festival": {
+    "Name": "World Headliners Festival",
+    "Theme": "Мировой фестиваль",
+    "Duration": "3 дня",
+    "TicketPriceFrom": 189.99,
+    "ExpectedGuests": 60000,
+    "Venue": {
+      "Country": "Germany",
+      "City": "Berlin",
+      "Address": "Tempelhofer Feld",
+      "VenueType": "Open Air Festival Park"
+    },
+    "Contacts": {
+      "Organizer": "World Headliners Events",
+      "Email": "info@worldheadlinersfest.example",
+      "Phone": "+49-30-555-22-11",
+      "Website": "www.worldheadlinersfest.example"
+    },
+    "Schedule": {
+      "StartDate": "2026-08-14",
+      "EndDate": "2026-08-16",
+      "EntryStart": "13:00",
+      "AfterpartyStart": "23:45"
+    }
+  },
+  "Artists": [
+    {
+      "StageName": "Radiohead",
+      "Genre": "Alternative Rock",
+      "Country": "United Kingdom",
+      "Headliner": true,
+      "PerformanceDay": "Friday",
+      "Performance": {
+        "Stage": "Main Stage",
+        "Time": "22:00",
+        "DurationMinutes": 95,
+        "SpecialSet": "Career Highlights"
+      },
+      "ArtistStats": {
+        "FoundedYear": 1985,
+        "StudioAlbums": 9,
+        "TopRelease": "OK Computer",
+        "Status": "Legendary"
+      }
+    },
+    {
+      "StageName": "Mac DeMarco",
+      "Genre": "Indie Rock",
+      "Country": "Canada",
+      "Headliner": false,
+      "PerformanceDay": "Friday",
+      "Performance": {
+        "Stage": "Sunset Stage",
+        "Time": "18:00",
+        "DurationMinutes": 70,
+        "SpecialSet": "Summer Groove Set"
+      },
+      "ArtistStats": {
+        "FoundedYear": 2012,
+        "StudioAlbums": 6,
+        "TopRelease": "Salad Days",
+        "Status": "Active"
+      }
+    },
+    {
+      "StageName": "The Smiths",
+      "Genre": "Indie Rock",
+      "Country": "United Kingdom",
+      "Headliner": true,
+      "PerformanceDay": "Saturday",
+      "Performance": {
+        "Stage": "Main Stage",
+        "Time": "21:30",
+        "DurationMinutes": 85,
+        "SpecialSet": "Classic Anthems"
+      },
+      "ArtistStats": {
+        "FoundedYear": 1982,
+        "StudioAlbums": 4,
+        "TopRelease": "The Queen Is Dead",
+        "Status": "Cult Favorite"
+      }
+    },
+    {
+      "StageName": "Tame Impala",
+      "Genre": "Psychedelic Pop",
+      "Country": "Australia",
+      "Headliner": true,
+      "PerformanceDay": "Saturday",
+      "Performance": {
+        "Stage": "Main Stage",
+        "Time": "23:10",
+        "DurationMinutes": 90,
+        "SpecialSet": "Visual Dream Set"
+      },
+      "ArtistStats": {
+        "FoundedYear": 2007,
+        "StudioAlbums": 4,
+        "TopRelease": "Currents",
+        "Status": "Active"
+      }
+    },
+    {
+      "StageName": "Yeat",
+      "Genre": "Rap",
+      "Country": "United States",
+      "Headliner": false,
+      "PerformanceDay": "Friday",
+      "Performance": {
+        "Stage": "Night Dome",
+        "Time": "20:10",
+        "DurationMinutes": 60,
+        "SpecialSet": "Festival Trap Set"
+      },
+      "ArtistStats": {
+        "FoundedYear": 2018,
+        "StudioAlbums": 5,
+        "TopRelease": "2093",
+        "Status": "Active"
+      }
+    },
+    {
+      "StageName": "Daughter",
+      "Genre": "Indie Folk",
+      "Country": "United Kingdom",
+      "Headliner": false,
+      "PerformanceDay": "Sunday",
+      "Performance": {
+        "Stage": "Sunset Stage",
+        "Time": "19:20",
+        "DurationMinutes": 65,
+        "SpecialSet": "Quiet Lights Set"
+      },
+      "ArtistStats": {
+        "FoundedYear": 2010,
+        "StudioAlbums": 3,
+        "TopRelease": "If You Leave",
+        "Status": "Active"
+      }
+    },
+    {
+      "StageName": "TV Girl",
+      "Genre": "Indie Pop",
+      "Country": "United States",
+      "Headliner": false,
+      "PerformanceDay": "Sunday",
+      "Performance": {
+        "Stage": "Sunset Stage",
+        "Time": "17:40",
+        "DurationMinutes": 60,
+        "SpecialSet": "Bedroom Pop Set"
+      },
+      "ArtistStats": {
+        "FoundedYear": 2010,
+        "StudioAlbums": 4,
+        "TopRelease": "French Exit",
+        "Status": "Active"
+      }
+    },
+    {
+      "StageName": "Clairo",
+      "Genre": "Indie Pop",
+      "Country": "United States",
+      "Headliner": false,
+      "PerformanceDay": "Saturday",
+      "Performance": {
+        "Stage": "Sunset Stage",
+        "Time": "16:30",
+        "DurationMinutes": 55,
+        "SpecialSet": "Charm Live Set"
+      },
+      "ArtistStats": {
+        "FoundedYear": 2017,
+        "StudioAlbums": 3,
+        "TopRelease": "Immunity",
+        "Status": "Active"
+      }
+    },
+    {
+      "StageName": "Crystal Castles",
+      "Genre": "Electronic",
+      "Country": "Canada",
+      "Headliner": false,
+      "PerformanceDay": "Friday",
+      "Performance": {
+        "Stage": "Night Dome",
+        "Time": "21:30",
+        "DurationMinutes": 70,
+        "SpecialSet": "Dark Electro Set"
+      },
+      "ArtistStats": {
+        "FoundedYear": 2003,
+        "StudioAlbums": 3,
+        "TopRelease": "Crystal Castles",
+        "Status": "Influential"
+      }
+    },
+    {
+      "StageName": "Fontaines D.C.",
+      "Genre": "Post-Punk",
+      "Country": "Ireland",
+      "Headliner": false,
+      "PerformanceDay": "Saturday",
+      "Performance": {
+        "Stage": "Main Stage",
+        "Time": "19:10",
+        "DurationMinutes": 70,
+        "SpecialSet": "Skinty Fia Set"
+      },
+      "ArtistStats": {
+        "FoundedYear": 2017,
+        "StudioAlbums": 4,
+        "TopRelease": "Skinty Fia",
+        "Status": "Active"
+      }
+    },
+    {
+      "StageName": "Arctic Monkeys",
+      "Genre": "Indie Rock",
+      "Country": "United Kingdom",
+      "Headliner": true,
+      "PerformanceDay": "Sunday",
+      "Performance": {
+        "Stage": "Main Stage",
+        "Time": "22:20",
+        "DurationMinutes": 90,
+        "SpecialSet": "Arena Night Set"
+      },
+      "ArtistStats": {
+        "FoundedYear": 2002,
+        "StudioAlbums": 7,
+        "TopRelease": "AM",
+        "Status": "Active"
+      }
+    },
+    {
+      "StageName": "Cigarettes After Sex",
+      "Genre": "Dream Pop",
+      "Country": "United States",
+      "Headliner": false,
+      "PerformanceDay": "Sunday",
+      "Performance": {
+        "Stage": "Night Dome",
+        "Time": "20:40",
+        "DurationMinutes": 75,
+        "SpecialSet": "Midnight Mood Set"
+      },
+      "ArtistStats": {
+        "FoundedYear": 2008,
+        "StudioAlbums": 3,
+        "TopRelease": "Cigarettes After Sex",
+        "Status": "Active"
+      }
+    }
+  ],
+  "Stages": [
+    {
+      "Name": "Main Stage",
+      "Capacity": 30000,
+      "IsOpenAir": true,
+      "SoundSystem": "L-Acoustics",
+      "AccessLevel": "All Tickets",
+      "WorkTime": {
+        "Start": "14:00",
+        "End": "23:55",
+        "Soundcheck": "11:00",
+        "BreakTime": "18:30"
+      },
+      "Manager": {
+        "FullName": "Sophie Kramer",
+        "Phone": "+49-30-777-10-10",
+        "Email": "mainstage@worldheadlinersfest.example",
+        "Shift": "Full Day"
+      },
+      "Decor": {
+        "LedScreens": "Triple Wall",
+        "LaserShow": "Yes",
+        "SmokeMachines": "8 units",
+        "MainColor": "Blue"
+      }
+    },
+    {
+      "Name": "Sunset Stage",
+      "Capacity": 18000,
+      "IsOpenAir": true,
+      "SoundSystem": "d&b audiotechnik",
+      "AccessLevel": "All Tickets",
+      "WorkTime": {
+        "Start": "15:00",
+        "End": "22:30",
+        "Soundcheck": "12:30",
+        "BreakTime": "18:00"
+      },
+      "Manager": {
+        "FullName": "Lena Vogt",
+        "Phone": "+49-30-777-10-20",
+        "Email": "sunset@worldheadlinersfest.example",
+        "Shift": "Day Shift"
+      },
+      "Decor": {
+        "LedScreens": "Wide Side Panels",
+        "LaserShow": "No",
+        "SmokeMachines": "4 units",
+        "MainColor": "Orange"
+      }
+    },
+    {
+      "Name": "Night Dome",
+      "Capacity": 12000,
+      "IsOpenAir": false,
+      "SoundSystem": "Meyer Sound",
+      "AccessLevel": "Standard and VIP",
+      "WorkTime": {
+        "Start": "17:00",
+        "End": "01:00",
+        "Soundcheck": "14:00",
+        "BreakTime": "21:00"
+      },
+      "Manager": {
+        "FullName": "Daniel Weiss",
+        "Phone": "+49-30-777-10-30",
+        "Email": "nightdome@worldheadlinersfest.example",
+        "Shift": "Evening Shift"
+      },
+      "Decor": {
+        "LedScreens": "Circular Center Screen",
+        "LaserShow": "Yes",
+        "SmokeMachines": "10 units",
+        "MainColor": "Purple"
+      }
+    }
+  ]
+}

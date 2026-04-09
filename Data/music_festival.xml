@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FestivalData>
+  <Festival>
+    <Name>World Headliners Festival</Name>
+    <Theme>Мировой фестиваль</Theme>
+    <Duration>3 дня</Duration>
+    <TicketPriceFrom>189.99</TicketPriceFrom>
+    <ExpectedGuests>60000</ExpectedGuests>
+    <Venue>
+      <Country>Germany</Country>
+      <City>Berlin</City>
+      <Address>Tempelhofer Feld</Address>
+      <VenueType>Open Air Festival Park</VenueType>
+    </Venue>
+    <Contacts>
+      <Organizer>World Headliners Events</Organizer>
+      <Email>info@worldheadlinersfest.example</Email>
+      <Phone>+49-30-555-22-11</Phone>
+      <Website>www.worldheadlinersfest.example</Website>
+    </Contacts>
+    <Schedule>
+      <StartDate>2026-08-14</StartDate>
+      <EndDate>2026-08-16</EndDate>
+      <EntryStart>13:00</EntryStart>
+      <AfterpartyStart>23:45</AfterpartyStart>
+    </Schedule>
+  </Festival>
+  <Artists>
+    <Artist>
+      <StageName>Radiohead</StageName>
+      <Genre>Alternative Rock</Genre>
+      <Country>United Kingdom</Country>
+      <Headliner>true</Headliner>
+      <PerformanceDay>Friday</PerformanceDay>
+      <Performance>
+        <Stage>Main Stage</Stage>
+        <Time>22:00</Time>
+        <DurationMinutes>95</DurationMinutes>
+        <SpecialSet>Career Highlights</SpecialSet>
+      </Performance>
+      <ArtistStats>
+        <FoundedYear>1985</FoundedYear>
+        <StudioAlbums>9</StudioAlbums>
+        <TopRelease>OK Computer</TopRelease>
+        <Status>Legendary</Status>
+      </ArtistStats>
+    </Artist>
+    <Artist>
+      <StageName>Mac DeMarco</StageName>
+      <Genre>Indie Rock</Genre>
+      <Country>Canada</Country>
+      <Headliner>false</Headliner>
+      <PerformanceDay>Friday</PerformanceDay>
+      <Performance>
+        <Stage>Sunset Stage</Stage>
+        <Time>18:00</Time>
+        <DurationMinutes>70</DurationMinutes>
+        <SpecialSet>Summer Groove Set</SpecialSet>
+      </Performance>
+      <ArtistStats>
+        <FoundedYear>2012</FoundedYear>
+        <StudioAlbums>6</StudioAlbums>
+        <TopRelease>Salad Days</TopRelease>
+        <Status>Active</Status>
+      </ArtistStats>
+    </Artist>
+    <Artist>
+      <StageName>The Smiths</StageName>
+      <Genre>Indie Rock</Genre>
+      <Country>United Kingdom</Country>
+      <Headliner>true</Headliner>
+      <PerformanceDay>Saturday</PerformanceDay>
+      <Performance>
+        <Stage>Main Stage</Stage>
+        <Time>21:30</Time>
+        <DurationMinutes>85</DurationMinutes>
+        <SpecialSet>Classic Anthems</SpecialSet>
+      </Performance>
+      <ArtistStats>
+        <FoundedYear>1982</FoundedYear>
+        <StudioAlbums>4</StudioAlbums>
+        <TopRelease>The Queen Is Dead</TopRelease>
+        <Status>Cult Favorite</Status>
+      </ArtistStats>
+    </Artist>
+    <Artist>
+      <StageName>Tame Impala</StageName>
+      <Genre>Psychedelic Pop</Genre>
+      <Country>Australia</Country>
+      <Headliner>true</Headliner>
+      <PerformanceDay>Saturday</PerformanceDay>
+      <Performance>
+        <Stage>Main Stage</Stage>
+        <Time>23:10</Time>
+        <DurationMinutes>90</DurationMinutes>
+        <SpecialSet>Visual Dream Set</SpecialSet>
+      </Performance>
+      <ArtistStats>
+        <FoundedYear>2007</FoundedYear>
+        <StudioAlbums>4</StudioAlbums>
+        <TopRelease>Currents</TopRelease>
+        <Status>Active</Status>
+      </ArtistStats>
+    </Artist>
+    <Artist>
+      <StageName>Yeat</StageName>
+      <Genre>Rap</Genre>
+      <Country>United States</Country>
+      <Headliner>false</Headliner>
+      <PerformanceDay>Friday</PerformanceDay>
+      <Performance>
+        <Stage>Night Dome</Stage>
+        <Time>20:10</Time>
+        <DurationMinutes>60</DurationMinutes>
+        <SpecialSet>Festival Trap Set</SpecialSet>
+      </Performance>
+      <ArtistStats>
+        <FoundedYear>2018</FoundedYear>
+        <StudioAlbums>5</StudioAlbums>
+        <TopRelease>2093</TopRelease>
+        <Status>Active</Status>
+      </ArtistStats>
+    </Artist>
+    <Artist>
+      <StageName>Daughter</StageName>
+      <Genre>Indie Folk</Genre>
+      <Country>United Kingdom</Country>
+      <Headliner>false</Headliner>
+      <PerformanceDay>Sunday</PerformanceDay>
+      <Performance>
+        <Stage>Sunset Stage</Stage>
+        <Time>19:20</Time>
+        <DurationMinutes>65</DurationMinutes>
+        <SpecialSet>Quiet Lights Set</SpecialSet>
+      </Performance>
+      <ArtistStats>
+        <FoundedYear>2010</FoundedYear>
+        <StudioAlbums>3</StudioAlbums>
+        <TopRelease>If You Leave</TopRelease>
+        <Status>Active</Status>
+      </ArtistStats>
+    </Artist>
+    <Artist>
+      <StageName>TV Girl</StageName>
+      <Genre>Indie Pop</Genre>
+      <Country>United States</Country>
+      <Headliner>false</Headliner>
+      <PerformanceDay>Sunday</PerformanceDay>
+      <Performance>
+        <Stage>Sunset Stage</Stage>
+        <Time>17:40</Time>
+        <DurationMinutes>60</DurationMinutes>
+        <SpecialSet>Bedroom Pop Set</SpecialSet>
+      </Performance>
+      <ArtistStats>
+        <FoundedYear>2010</FoundedYear>
+        <StudioAlbums>4</StudioAlbums>
+        <TopRelease>French Exit</TopRelease>
+        <Status>Active</Status>
+      </ArtistStats>
+    </Artist>
+    <Artist>
+      <StageName>Clairo</StageName>
+      <Genre>Indie Pop</Genre>
+      <Country>United States</Country>
+      <Headliner>false</Headliner>
+      <PerformanceDay>Saturday</PerformanceDay>
+      <Performance>
+        <Stage>Sunset Stage</Stage>
+        <Time>16:30</Time>
+        <DurationMinutes>55</DurationMinutes>
+        <SpecialSet>Charm Live Set</SpecialSet>
+      </Performance>
+      <ArtistStats>
+        <FoundedYear>2017</FoundedYear>
+        <StudioAlbums>3</StudioAlbums>
+        <TopRelease>Immunity</TopRelease>
+        <Status>Active</Status>
+      </ArtistStats>
+    </Artist>
+    <Artist>
+      <StageName>Crystal Castles</StageName>
+      <Genre>Electronic</Genre>
+      <Country>Canada</Country>
+      <Headliner>false</Headliner>
+      <PerformanceDay>Friday</PerformanceDay>
+      <Performance>
+        <Stage>Night Dome</Stage>
+        <Time>21:30</Time>
+        <DurationMinutes>70</DurationMinutes>
+        <SpecialSet>Dark Electro Set</SpecialSet>
+      </Performance>
+      <ArtistStats>
+        <FoundedYear>2003</FoundedYear>
+        <StudioAlbums>3</StudioAlbums>
+        <TopRelease>Crystal Castles</TopRelease>
+        <Status>Influential</Status>
+      </ArtistStats>
+    </Artist>
+    <Artist>
+      <StageName>Fontaines D.C.</StageName>
+      <Genre>Post-Punk</Genre>
+      <Country>Ireland</Country>
+      <Headliner>false</Headliner>
+      <PerformanceDay>Saturday</PerformanceDay>
+      <Performance>
+        <Stage>Main Stage</Stage>
+        <Time>19:10</Time>
+        <DurationMinutes>70</DurationMinutes>
+        <SpecialSet>Skinty Fia Set</SpecialSet>
+      </Performance>
+      <ArtistStats>
+        <FoundedYear>2017</FoundedYear>
+        <StudioAlbums>4</StudioAlbums>
+        <TopRelease>Skinty Fia</TopRelease>
+        <Status>Active</Status>
+      </ArtistStats>
+    </Artist>
+    <Artist>
+      <StageName>Arctic Monkeys</StageName>
+      <Genre>Indie Rock</Genre>
+      <Country>United Kingdom</Country>
+      <Headliner>true</Headliner>
+      <PerformanceDay>Sunday</PerformanceDay>
+      <Performance>
+        <Stage>Main Stage</Stage>
+        <Time>22:20</Time>
+        <DurationMinutes>90</DurationMinutes>
+        <SpecialSet>Arena Night Set</SpecialSet>
+      </Performance>
+      <ArtistStats>
+        <FoundedYear>2002</FoundedYear>
+        <StudioAlbums>7</StudioAlbums>
+        <TopRelease>AM</TopRelease>
+        <Status>Active</Status>
+      </ArtistStats>
+    </Artist>
+    <Artist>
+      <StageName>Cigarettes After Sex</StageName>
+      <Genre>Dream Pop</Genre>
+      <Country>United States</Country>
+      <Headliner>false</Headliner>
+      <PerformanceDay>Sunday</PerformanceDay>
+      <Performance>
+        <Stage>Night Dome</Stage>
+        <Time>20:40</Time>
+        <DurationMinutes>75</DurationMinutes>
+        <SpecialSet>Midnight Mood Set</SpecialSet>
+      </Performance>
+      <ArtistStats>
+        <FoundedYear>2008</FoundedYear>
+        <StudioAlbums>3</StudioAlbums>
+        <TopRelease>Cigarettes After Sex</TopRelease>
+        <Status>Active</Status>
+      </ArtistStats>
+    </Artist>
+  </Artists>
+  <Stages>
+    <Stage>
+      <Name>Main Stage</Name>
+      <Capacity>30000</Capacity>
+      <IsOpenAir>true</IsOpenAir>
+      <SoundSystem>L-Acoustics</SoundSystem>
+      <AccessLevel>All Tickets</AccessLevel>
+      <WorkTime>
+        <Start>14:00</Start>
+        <End>23:55</End>
+        <Soundcheck>11:00</Soundcheck>
+        <BreakTime>18:30</BreakTime>
+      </WorkTime>
+      <Manager>
+        <FullName>Sophie Kramer</FullName>
+        <Phone>+49-30-777-10-10</Phone>
+        <Email>mainstage@worldheadlinersfest.example</Email>
+        <Shift>Full Day</Shift>
+      </Manager>
+      <Decor>
+        <LedScreens>Triple Wall</LedScreens>
+        <LaserShow>Yes</LaserShow>
+        <SmokeMachines>8 units</SmokeMachines>
+        <MainColor>Blue</MainColor>
+      </Decor>
+    </Stage>
+    <Stage>
+      <Name>Sunset Stage</Name>
+      <Capacity>18000</Capacity>
+      <IsOpenAir>true</IsOpenAir>
+      <SoundSystem>d&amp;b audiotechnik</SoundSystem>
+      <AccessLevel>All Tickets</AccessLevel>
+      <WorkTime>
+        <Start>15:00</Start>
+        <End>22:30</End>
+        <Soundcheck>12:30</Soundcheck>
+        <BreakTime>18:00</BreakTime>
+      </WorkTime>
+      <Manager>
+        <FullName>Lena Vogt</FullName>
+        <Phone>+49-30-777-10-20</Phone>
+        <Email>sunset@worldheadlinersfest.example</Email>
+        <Shift>Day Shift</Shift>
+      </Manager>
+      <Decor>
+        <LedScreens>Wide Side Panels</LedScreens>
+        <LaserShow>No</LaserShow>
+        <SmokeMachines>4 units</SmokeMachines>
+        <MainColor>Orange</MainColor>
+      </Decor>
+    </Stage>
+    <Stage>
+      <Name>Night Dome</Name>
+      <Capacity>12000</Capacity>
+      <IsOpenAir>false</IsOpenAir>
+      <SoundSystem>Meyer Sound</SoundSystem>
+      <AccessLevel>Standard and VIP</AccessLevel>
+      <WorkTime>
+        <Start>17:00</Start>
+        <End>01:00</End>
+        <Soundcheck>14:00</Soundcheck>
+        <BreakTime>21:00</BreakTime>
+      </WorkTime>
+      <Manager>
+        <FullName>Daniel Weiss</FullName>
+        <Phone>+49-30-777-10-30</Phone>
+        <Email>nightdome@worldheadlinersfest.example</Email>
+        <Shift>Evening Shift</Shift>
+      </Manager>
+      <Decor>
+        <LedScreens>Circular Center Screen</LedScreens>
+        <LaserShow>Yes</LaserShow>
+        <SmokeMachines>10 units</SmokeMachines>
+        <MainColor>Purple</MainColor>
+      </Decor>
+    </Stage>
+  </Stages>
+</FestivalData>
